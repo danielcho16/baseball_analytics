@@ -61,6 +61,9 @@ Pitching stats from the 2022 season
 
 <img width="291" alt="pitching_stats_1_era" src="https://github.com/danielcho16/baseball_analytics/assets/82684796/48a23844-7581-47ae-8d5b-d4ce1a41fe62">
 
+<br>
+<br>
+
 **Starting Pitchers with 200+ Strikeouts**
 
 <img width="271" alt="pitching_stats_2_strikeouts" src="https://github.com/danielcho16/baseball_analytics/assets/82684796/82433769-906f-448c-860d-a434cac93bbb">
@@ -91,7 +94,6 @@ Displot of Batted Balls Hit Distance by Pitch Type by Judge
 
 ![statcast_judge_3_batted_balls_distance](https://github.com/danielcho16/baseball_analytics/assets/82684796/c7abf1d3-0f29-4677-8299-b5a3d6eabc54)
 
-<br>
 <br>
 <br>
 
@@ -202,6 +204,33 @@ Dataframe with actual wRC+ and predicted wRC+
 <br>
 
 **Classification - Decision Tree**
+
+Statcast pitching data from the 2018-2022 seasons for Clayton Kershaw
+
+Classification report without grouping fastballs
+
+<img width="423" alt="ml_dt_kershaw_classification_report_no_fb_group" src="https://github.com/danielcho16/baseball_analytics/assets/82684796/aa18bd41-62fa-4ec2-8624-98b707512580">
+
+<br>
+<br>
+
+Classification report with grouping fastballs
+
+<img width="400" alt="ml_dt_kershaw_classification_report_fb_group" src="https://github.com/danielcho16/baseball_analytics/assets/82684796/520da12f-e823-4fed-9d07-63eeec313316">
+
+<br>
+
+Prediction accuracy for Kershaw's pitches improves insignificantly with grouping fastballs since the 4-seam fastball is the only type of fastball he throws.
+
+----
+
+### Web scraping with Baseball Almanac
+
+----
+
+### MLB API
+
+----
 
 
 
