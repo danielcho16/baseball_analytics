@@ -5,7 +5,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Major_League_Baseball_logo.svg/1200px-Major_League_Baseball_logo.svg.png" width=600>
 
 <br>
-<br>
 
 ### Introduction
 
