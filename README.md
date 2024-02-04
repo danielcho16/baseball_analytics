@@ -237,7 +237,7 @@ LA Dodgers opening day scores (2014-2023) web scraped from [Baseball Almanac](ht
 
 ### MLB API
 
-Sample of LA Dodgers roster obtained from MLB Stats API
+Sample of 2022 LA Dodgers roster obtained from MLB Stats API
 
 <img width="417" alt="mlb_api_roster" src="https://github.com/danielcho16/baseball_analytics/assets/82684796/e1afd9d1-40e9-4d59-b51b-8adf551af54e">
 
