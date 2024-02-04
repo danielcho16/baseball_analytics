@@ -17,6 +17,8 @@ This project uses data from Major League Baseball for:
  - web scraping
  - API
 
+Full analysis available [here](https://github.com/danielcho16/baseball_analytics/blob/main/baseball_analytics.ipynb).
+
 ----
 
 ### Dataset
@@ -219,6 +221,7 @@ Classification report with grouping fastballs
 <img width="400" alt="ml_dt_kershaw_classification_report_fb_group" src="https://github.com/danielcho16/baseball_analytics/assets/82684796/520da12f-e823-4fed-9d07-63eeec313316">
 
 <br>
+<br>
 
 Prediction accuracy for Kershaw's pitches improves insignificantly with grouping fastballs since the 4-seam fastball is the only type of fastball he throws.
 
@@ -226,9 +229,17 @@ Prediction accuracy for Kershaw's pitches improves insignificantly with grouping
 
 ### Web scraping with Baseball Almanac
 
+LA Dodgers opening day scores (2014-2023) web scraped from [Baseball Almanac](https://baseball-almanac.com/)
+
+<img width="633" alt="web_scraping_opening_day_scores" src="https://github.com/danielcho16/baseball_analytics/assets/82684796/467483eb-62ee-4185-9640-70cda8bca8e0">
+
 ----
 
 ### MLB API
+
+Sample of LA Dodgers roster obtained from MLB Stats API
+
+<img width="417" alt="mlb_api_roster" src="https://github.com/danielcho16/baseball_analytics/assets/82684796/e1afd9d1-40e9-4d59-b51b-8adf551af54e">
 
 ----
 
