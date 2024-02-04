@@ -37,7 +37,7 @@ Batting stats from the 2022 season
 
 **Qualified Batters with a Batting Average Over .300**
 
-<img width="296" alt="batting_stats_1_ba" src="https://github.com/danielcho16/baseball_analytics/assets/82684796/dfc03fb2-308b-4509-b88e-3164b8ebace7">
+<img width="296" alt="batting_stats_1_ba" src="https://github.com/danielcho16/baseball_analytics/assets/82684796/3bbcc5e2-3078-4fbe-abd8-815ff1a9d6d6">
 
 <br>
 <br>
